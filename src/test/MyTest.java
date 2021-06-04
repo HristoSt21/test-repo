@@ -2,7 +2,7 @@ package test;
 
 public MyTest {
    
-   public void main() {
+   public void main(String [] args) {
      System.out.printlin("Hello word new");
    }
 
